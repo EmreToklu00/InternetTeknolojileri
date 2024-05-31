@@ -63,6 +63,7 @@ After starting your project, you can view it by going to `http://localhost:3000`
 </p>
 
 [Back to Top /⬆️/ Yukarıya Çık](#i̇nternet-teknolojileri)
+#
 
 (TR)
 
