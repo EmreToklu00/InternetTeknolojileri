@@ -62,10 +62,7 @@ After starting your project, you can view it by going to `http://localhost:3000`
    <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/master/github/jsonplaceholder.png" >
 </p>
 
-
-<p align="right"><-<a href="#readme-top">Back to Top /⬆️/ Yukarıya Çık</a>-></p>
-
-
+[Back to Top /⬆️/ Yukarıya Çık](#i̇nternet-teknolojileri)
 
 (TR)
 
