@@ -51,15 +51,15 @@ After starting your project, you can view it by going to `http://localhost:3000`
 
 ## Folders and package.json
 <div align="center">
-  <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/main/github/folders.png">
-  <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/main/github/package.png">
+  <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/master/github/folders.png">
+  <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/master/github/package.png">
 </div>
 
 ## Screenshots
 <p align="center">
-   <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/main/github/home.png" >
-   <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/main/github/redux.png" >
-   <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/main/github/jsonplaceholder.png" >
+   <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/master/github/home.png" >
+   <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/master/github/redux.png" >
+   <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/master/github/jsonplaceholder.png" >
 </p>
 
 
@@ -121,15 +121,15 @@ Projenizi başlattıktan sonra, tarayıcınızda `http://localhost:3000` adresin
 
 ## Klasörler and package.json
 <div align="center">
-  <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/main/github/folders.png">
-  <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/main/github/package.png">
+  <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/master/github/folders.png">
+  <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/master/github/package.png">
 </div>
 
 ## Ekran görüntüleri 
 <p align="center">
-   <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/main/github/home.png" >
-   <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/main/github/redux.png" >
-   <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/main/github/jsonplaceholder.png" >
+   <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/master/github/home.png" >
+   <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/master/github/redux.png" >
+   <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/master/github/jsonplaceholder.png" >
 </p>
 
 <p align="right"><-<a href="#readme-top">Back to Top / Yukarıya Çık</a>-></p>
