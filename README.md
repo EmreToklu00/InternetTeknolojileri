@@ -132,7 +132,7 @@ Projenizi başlattıktan sonra, tarayıcınızda `http://localhost:3000` adresin
    <img src="https://github.com/EmreToklu00/InternetTeknolojileri/blob/master/github/jsonplaceholder.png" >
 </p>
 
-<p align="right">[Back to Top /⬆️/ Yukarıya Çık](#i̇nternet-teknolojileri)</p>
+[Back to Top /⬆️/ Yukarıya Çık](#i̇nternet-teknolojileri)
 
 
 
